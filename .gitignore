@@ -1,0 +1,17 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mat
+*.fig
+*.mex*
+slprj/
+codegen/
+
+# Extracted or generated local artifacts
+data/CNN_dataset/
+results/*
+!results/README.md
+
+# OS/editor files
+.DS_Store
+Thumbs.db
